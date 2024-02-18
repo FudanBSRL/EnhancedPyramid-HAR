@@ -4,7 +4,6 @@ Welcome to the official GitHub repository for the EnhancedPyramid-HAR, featuring
 
 ## Introduction
 
-![Workflow diagram of EnhancedPyramid-HAR](https://github.com/FudanBSRL/EnhancedPyramid-HAR/assets/144869252/b7e80f00-4feb-4f15-8f63-7c6104b7805f)
 
 ## Datasets
 
