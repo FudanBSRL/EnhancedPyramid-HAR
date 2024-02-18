@@ -1,0 +1,7 @@
+torch==1.12.0+cu116
+numpy==1.23.3
+scikit-learn
+torchsummary
+thop==0.1.1
+matplotlib==3.5.2
+pandas==1.5.1  
