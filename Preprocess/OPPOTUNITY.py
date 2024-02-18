@@ -307,7 +307,7 @@ if __name__ == '__main__':
     print(f" ..after sliding and reshaping, test data: inputs {X_test.shape}, targets {y_test.shape}")
 
     # Saving the processed data
-    np.save(r"D:\HARproject\code\DanHAR-main\HAR_Dataset\opportunity\opp_train_x_1s.npy", X_train)
-    np.save(r"D:\HARproject\code\DanHAR-main\HAR_Dataset\opportunity\opp_train_y_1s.npy", y_train)
-    np.save(r"D:\HARproject\code\DanHAR-main\HAR_Dataset\opportunity\opp_test_x_1s.npy", X_test)
-    np.save(r"D:\HARproject\code\DanHAR-main\HAR_Dataset\opportunity\opp_test_y_1s.npy", y_test)
+    np.save(r".\train_x.npy", X_train)
+    np.save(r".\train_y.npy", y_train)
+    np.save(r".\test_x.npy", X_test)
+    np.save(r".\test_y.npy", y_test)
